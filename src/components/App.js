@@ -1,12 +1,12 @@
 import React from 'react';
-import Counter from './Counter/Counter';
+import Movies from './MovieApp/Movies';
 
 
 
 function App(){
     return (
         <div>
-            <Counter></Counter>
+            <Movies></Movies>
         </div>
     )
 
